@@ -1,0 +1,74 @@
+{
+    "osrf/ariac-release": {
+        "project_file": "data/repositories/osrf/ariac-release.json",
+        "project_path": "data/repositories/osrf/ariac-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/ariac-release"
+    },
+    "osrf/gazebo10-release": {
+        "project_file": "data/repositories/osrf/gazebo10-release.json",
+        "project_path": "data/repositories/osrf/gazebo10-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/gazebo10-release"
+    },
+    "osrf/gazebo7-release": {
+        "project_file": "data/repositories/osrf/gazebo7-release.json",
+        "project_path": "data/repositories/osrf/gazebo7-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/gazebo7-release"
+    },
+    "osrf/gazebo7-ros-release": {
+        "project_file": "data/repositories/osrf/gazebo7-ros-release.json",
+        "project_path": "data/repositories/osrf/gazebo7-ros-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/gazebo7-ros-release"
+    },
+    "osrf/gazebo9-release": {
+        "project_file": "data/repositories/osrf/gazebo9-release.json",
+        "project_path": "data/repositories/osrf/gazebo9-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/gazebo9-release"
+    },
+    "osrf/opensplice-release": {
+        "project_file": "data/repositories/osrf/opensplice-release.json",
+        "project_path": "data/repositories/osrf/opensplice-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/opensplice-release"
+    },
+    "osrf/ros1_ign_bridge-release": {
+        "project_file": "data/repositories/osrf/ros1_ign_bridge-release.json",
+        "project_path": "data/repositories/osrf/ros1_ign_bridge-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/ros1_ign_bridge-release"
+    },
+    "osrf/sdformat4-release": {
+        "project_file": "data/repositories/osrf/sdformat4-release.json",
+        "project_path": "data/repositories/osrf/sdformat4-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/sdformat4-release"
+    },
+    "osrf/sdformat6-release": {
+        "project_file": "data/repositories/osrf/sdformat6-release.json",
+        "project_path": "data/repositories/osrf/sdformat6-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/sdformat6-release"
+    },
+    "osrf/sdformat8-release": {
+        "project_file": "data/repositories/osrf/sdformat8-release.json",
+        "project_path": "data/repositories/osrf/sdformat8-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/sdformat8-release"
+    },
+    "osrf/srcsim-release": {
+        "project_file": "data/repositories/osrf/srcsim-release.json",
+        "project_path": "data/repositories/osrf/srcsim-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/srcsim-release"
+    },
+    "osrf/subt-release": {
+        "project_file": "data/repositories/osrf/subt-release.json",
+        "project_path": "data/repositories/osrf/subt-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/subt-release"
+    }
+}
